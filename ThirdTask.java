@@ -14,7 +14,7 @@ public class ThirdTask {
         a = b;
         b = temp;
 
-        System.out.println(a +" "+ b);
+        System.out.println(a + " " + b);
 
     }
 }
